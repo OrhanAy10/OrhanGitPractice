@@ -12,4 +12,7 @@ public static  void  hello(){
 public static  void  classTime(){
 
 }
+    public static void newUpdateMethod(){
+        
+}
 }
